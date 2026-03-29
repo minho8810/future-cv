@@ -35,7 +35,7 @@
   - [프로젝트 상세 보기(가상 링크)](https://github.com/minho8810/smart-cctv-project)
 - **Cora Dataset Network Analysis**
   - 논문 인용 네트워크 분석을 통한 커뮤니티 탐지 및 노드 분류 모델 성능 최적화.
-  - - [프로젝트 상세 보기(가상 링크)](https://github.com/minho8810/cora-analysis-gnn) 
+  - [프로젝트 상세 보기(가상 링크)](https://github.com/minho8810/cora-analysis-gnn) 
 
 ---
 
