@@ -51,7 +51,7 @@
 
 ## 🔗 관련 링크
 - [개인 기술 블로그](https://minho8810.tistory.com (가상))
-- [LinkedIn 프로필][(https://linkedin.com/in/your-id)](https://linkedin.com/in/minho8810 (가상))
+- [LinkedIn 프로필](https://linkedin.com/in/minho8810 (가상))
 - [GitHub Repository](https://github.com/minho8810/future-cv)
 
 ---
